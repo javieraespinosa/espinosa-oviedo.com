@@ -24,3 +24,20 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+
+[[redirects]]
+  from = "/teaching"
+  to = "/#_teaching"
+
+[[redirects]]
+  from = "/digital-multimedia"
+  to = "/#_teaching"
+
+[[redirects]]
+  from = "/big-data-visualization"
+  to = "/#_teaching"
+
+[[redirects]]
+  from = "/web-programming"
+  to = "/#_teaching"
