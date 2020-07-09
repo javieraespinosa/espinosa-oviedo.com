@@ -61,3 +61,9 @@
 [[redirects]]
   from = "/web-programming"
   to = "/"
+  
+[[redirects]]
+  from = "/big-data-visualization-2016-bsc"
+  to = "/"
+    
+
