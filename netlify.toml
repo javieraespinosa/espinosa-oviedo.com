@@ -26,18 +26,38 @@
     Content-Type = "application/rss+xml"
 
 
+
 [[redirects]]
   from = "/teaching"
-  to = "/#_teaching"
+  to = "/"
+
+[[redirects]]
+  from = "/publications"
+  to = "/"
+
+[[redirects]]
+  from = "/activities"
+  to = "/"
+
+[[redirects]]
+  from = "/projects"
+  to = "/"
+
+[[redirects]]
+  from = "/contact"
+  to = "/"
+
+
+# Courses redirects
 
 [[redirects]]
   from = "/digital-multimedia"
-  to = "/#_teaching"
+  to = "/"
 
 [[redirects]]
   from = "/big-data-visualization"
-  to = "/#_teaching"
+  to = "/"
 
 [[redirects]]
   from = "/web-programming"
-  to = "/#_teaching"
+  to = "/"
