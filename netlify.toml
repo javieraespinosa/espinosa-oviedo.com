@@ -64,6 +64,8 @@
   
 [[redirects]]
   from = "/big-data-visualization-2016-bsc"
-  to = "/"
-    
+  to = "/"    
 
+[[redirects]]
+  from = "/web-programming-and-services"
+  to = "/"
