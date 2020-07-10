@@ -52,20 +52,20 @@
 
 [[redirects]]
   from = "/digital-multimedia"
-  to = "/"
+  to = "https://javieraespinosa.github.io/digital-multimedia"
 
 [[redirects]]
   from = "/big-data-visualization"
-  to = "/"
+  to = "https://javieraespinosa.github.io/big-data-visualization"
 
 [[redirects]]
   from = "/web-programming"
-  to = "/"
+  to = "https://javieraespinosa.github.io/web-programming"
   
 [[redirects]]
   from = "/big-data-visualization-2016-bsc"
-  to = "/"    
+  to = "/big-data-visualization"    
 
 [[redirects]]
   from = "/web-programming-and-services"
-  to = "/"
+  to = "https://javieraespinosa.github.io/web-programming-and-services"
