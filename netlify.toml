@@ -67,5 +67,5 @@
   to = "/big-data-visualization"    
 
 [[redirects]]
-  from = "/web-programming-and-services"
+  from = "/mobile-and-web-services-programming/"
   to = "https://javieraespinosa.github.io/web-programming-and-services"
