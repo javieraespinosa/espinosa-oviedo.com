@@ -30,4 +30,4 @@ jobs:
           external_repository: javieraespinosa/javieraespinosa.github.io
           publish_branch: master
           publish_dir: ./public
-          cname: espinosa-oviedo.com
+          cname: www.espinosa-oviedo.com
