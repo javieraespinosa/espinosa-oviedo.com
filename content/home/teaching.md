@@ -10,12 +10,12 @@ weight = 41
 ### Big Data Management, Processing & Analytics
 * [Big Data Analytics & Visualization](http://vargas-solar.com/bigdata-visualisation/), PRACE-BSC-2017, UdelaR-2016
 * [Big Data Analytics](http://vargas-solar.com/big-data-analytics), UdelaR-2015
-* [Big Data Visualization: Tools and Techniques](http://espinosa-oviedo.com/big-data-visualization-2016-bsc/), PRACE-BSC-2016
+* [Big Data Visualization: Tools and Techniques](http://espinosa-oviedo.com/big-data-visualization), PRACE-BSC-2016
 * [Cloud Data Management](http://vargas-solar.com/cloud-data-management/), ENSIMAG-2013
 * [Map-Reduce Fest](http://vargas-solar.com/map-reduce-fest/), ENSIMAG-2013
 
 ###  Advanced Web Programming
-* [Mobile, Network and Web Services programming](http://espinosa-oviedo.com/mobile-and-web-services-programming/), Grenoble-IUT2-2015
+* [Mobile, Network and Web Services programming](http://espinosa-oviedo.com/web-services-programming/), Grenoble-IUT2-2015
 * [Web Programming: Languages and Technologies](http://espinosa-oviedo.com/web-programming/), UPMF-2014
 * [Digital Multimedia](http://espinosa-oviedo.com/digital-multimedia), UPMF-2013
 
