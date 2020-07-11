@@ -1,6 +1,0 @@
-
- Sitemap: http://espinosa-oviedo.com/sitemap.xml
-Sitemap: http://espinosa-oviedo.com/news-sitemap.xml
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
