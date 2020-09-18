@@ -14,12 +14,16 @@ role: Computer Scientist
 
 # Organizations/Affiliations
 organizations:
+  - name: Univ. Lyon
+    url: "http://univ-lyon2.fr"
+  - name: ERIC lab
+    url: "https://eric.msh-lse.fr/en/"
   - name: LAFMIA French-Mexican lab
     url: "http://lafmia.imag.fr"
-  - name: LIG Grenoble lab
-    url: "http://liglab.fr/"
-  - name: Univ. Lyon 3
-    url: "http://univ-lyon3.fr"
+  # - name: LIG Grenoble lab
+  #   url: "http://liglab.fr/"
+
+
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -113,6 +117,6 @@ user_groups:
 
 I am a **computer scientist** specialized in the domains of **databases & distributed systems**. My core experience concerns {{<hl>}}**cloud & service based Big Data management & processing**{{</hl>}}.
 
-I work as postdoctoral researcher at [University of Lyon 3](http://univ-lyon3.fr/) and the [Laboratoy of Informatics of Grenoble](http://liglab.fr/en) ( [HADAS](http://hadas.imag.fr/) group). I am also researcher of the [LAFMIA](http://lafmia.imag.fr) French-Mexican laboratory, and former researcher of the [Barcelona Supercomputing Centre](http://bsc.es) and [TU Delft](http://tudelft.nl).
+I currently work as postdoctoral researcher at [University of Lyon](http://univ-lyon3.fr/) and the [ERIC](https://eric.msh-lse.fr/en/) research lab. I am also associate researcher at the French-Mexican [LAFMIA](http://lafmia.imag.fr) lab, and former researcher of the [Barcelona Supercomputing Centre](http://bsc.es), [TU Delft](http://tudelft.nl) and the [Grenoble Informatics Laboratory](http://liglab.fr/en).
 
 I am fellow of the Mexican [AMEXCOMP](http://amexcomp.org.mx/) and [SNI](https://en.wikipedia.org/wiki/Sistema_Nacional_de_Investigadores) (level C), and member of the [ACM](http://acm.org).

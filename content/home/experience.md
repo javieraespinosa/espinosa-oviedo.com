@@ -20,6 +20,16 @@ date_format = "Jan 2006"
 
 
 [[experience]]
+  title = "Postdoctoral Researcher"
+  company = "[ERIC Laboratory](https://eric.msh-lse.fr/en/) & [University of Lyon 2](http://univ-lyon2.fr/)"
+  #company_url = ""
+  location = "France"
+  date_start = "2020-01-01"
+  date_end = "2021-01-01"
+  description = """"""
+
+
+[[experience]]
   title = "Postdoctoral Researcher • [HADAS database group](http://hadas.imag.fr/)"
   company = "[Grenoble Informatics Laboratory](http://www.liglab.fr/en) & [University of Lyon 3](http://univ-lyon3.fr/)"
   #company_url = ""
