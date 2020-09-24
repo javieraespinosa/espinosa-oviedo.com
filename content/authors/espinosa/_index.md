@@ -117,6 +117,6 @@ user_groups:
 
 I am a **computer scientist** specialized in the domains of **databases & distributed systems**. My core experience concerns {{<hl>}}**cloud & service based Big Data management & processing**{{</hl>}}.
 
-I currently work as postdoctoral researcher at [University of Lyon](http://univ-lyon3.fr/) and the [ERIC](https://eric.msh-lse.fr/en/) research lab. I am also associate researcher at the French-Mexican [LAFMIA](http://lafmia.imag.fr) lab, and former researcher of the [Barcelona Supercomputing Centre](http://bsc.es), [TU Delft](http://tudelft.nl) and the [Grenoble Informatics Laboratory](http://liglab.fr/en).
+I work as postdoctoral researcher at [University of Lyon](http://univ-lyon3.fr/). I am also researcher at the [ERIC](https://eric.msh-lse.fr/en/) research lab, and associate researcher at the French-Mexican [LAFMIA](http://lafmia.imag.fr) lab. I am also former researcher of the [Barcelona Supercomputing Centre](http://bsc.es), [TU Delft](http://tudelft.nl) and the [Grenoble Informatics Laboratory](http://liglab.fr/en).
 
 I am fellow of the Mexican [AMEXCOMP](http://amexcomp.org.mx/) and [SNI](https://en.wikipedia.org/wiki/Sistema_Nacional_de_Investigadores) (level C), and member of the [ACM](http://acm.org).
