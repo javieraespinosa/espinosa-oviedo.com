@@ -23,6 +23,7 @@ subtitle = "Scientific Community Service"
 ### Program Committee Member
 | | |
 |---|---|
+|BECS workshop | `2021`
 |AICCSA conference | `2020`
 |EDBT DARLI-AP workshop | `2020, 2019`
 |ICSOC STRAPS workshop| `2020`
