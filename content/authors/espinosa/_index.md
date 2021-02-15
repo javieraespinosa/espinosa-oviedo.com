@@ -14,11 +14,11 @@ role: Computer Scientist
 
 # Organizations/Affiliations
 organizations:
-  - name: Univ. Lyon
+  - name: Univ. of Lyon 2
     url: "http://univ-lyon2.fr"
   - name: ERIC lab
     url: "https://eric.msh-lse.fr/en/"
-  - name: LAFMIA French-Mexican lab
+  - name: LAFMIA lab
     url: "http://lafmia.imag.fr"
   # - name: LIG Grenoble lab
   #   url: "http://liglab.fr/"
