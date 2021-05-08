@@ -26,7 +26,7 @@ subtitle = "Scientific Community Service"
 |BECS workshop | `2021`
 |AICCSA conference | `2020`
 |EDBT DARLI-AP workshop | `2020, 2019`
-|ICSOC STRAPS workshop| `2020`
+|ICSOC STRAPS workshop| `2021, 2020`
 |AICCSA DSC workshop | `2019`
 |CoopIS conference | `2019`
 
