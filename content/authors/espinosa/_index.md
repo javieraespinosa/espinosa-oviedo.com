@@ -79,7 +79,7 @@ social:
 
   - icon: cv
     icon_pack: ai
-    link: /files/cv.pdf
+    link: /files/Espinosa-CV.pdf
 
   #- icon: facebook
   #  icon_pack: fab
